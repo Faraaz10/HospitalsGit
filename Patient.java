@@ -6,7 +6,7 @@ public class Patient {
     private String disease;
     private String contactNumber;
 
-    // Constructor
+    // Constructor method
     public Patient(int id, String name, int age, String gender, String disease, String contactNumber) {
         this.id = id;
         this.name = name;
