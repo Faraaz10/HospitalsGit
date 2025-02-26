@@ -10,6 +10,8 @@ public class Main {
 
         // Print variables
         System.out.println("Number: " + number);
+        System.out.println("change");
+        
         System.out.println("Pi value: " + pi);
         System.out.println("Hello, " + name + "!");
 
