@@ -1,11 +1,11 @@
-class Doctor {
+class Updated_Doctor {
     private int id;
     private String name;
     private String specialty;
     private int experience;
 
     // Constructor
-    public Doctor(int id, String name, String specialty, int experience) {
+    public Updated_Doctor(int id, String name, String specialty, int experience) {
         this.id = id;
         this.name = name;
         this.specialty = specialty;
